@@ -4,10 +4,7 @@ using NodeNetwork.Toolkit.ValueNode;
 using ReactiveUI;
 using DynamicData;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace NodeCalculatorApp.ViewModels.Nodes
 {
@@ -53,6 +50,14 @@ namespace NodeCalculatorApp.ViewModels.Nodes
             // NodeViewModel이 관리하는 Inputs라는 컬렉션(목록)에 방금 만든 ResultInput 포트를 추가합니다.
             // 이 코드를 실행해야 비로소 노드에 입력 포트가 시각적으로 표시되고 작동하게 됩니다.
             this.Inputs.Add(ResultInput);
+
+           
+
+
+            //ResultInput.ValueChanged.Subscribe(v =>
+            //{
+            //    Debug.WriteLine($"OutputNodeViewModel: ResultInput value changed to {v}");
+            //});
         }
     }
 }

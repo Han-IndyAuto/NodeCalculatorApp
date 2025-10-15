@@ -1,22 +1,9 @@
 ﻿using NodeCalculatorApp.ViewModels;
 using ReactiveUI;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Reactive.Disposables;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
-namespace NodeCalculatorApp
+namespace NodeCalculatorApp.Views
 {
     /// <summary>
     /// 뷰모델 생성: 애플리케이션의 모든 데이터와 로직을 관장하는 MainViewModel 객체를 생성합니다.
@@ -38,6 +25,19 @@ namespace NodeCalculatorApp
         public static readonly DependencyProperty ViewModelProperty = DependencyProperty.Register(nameof(ViewModel),
             typeof(MainViewModel), typeof(MainWindow), new PropertyMetadata(null));
 
+        // IViewFor<MainViewModel> 인터페이스를 구현하고, 의존성 프로퍼티를 일반 C# 속성처럼 편리하게 사용하기 위한 표준적인 코드입니다.
+        // ReactiveUI가 내부적으로 이 속성들을 사용하여 뷰와 뷰모델을 연결합니다.
+        public MainViewModel ViewModel
+        {
+            get => (MainViewModel)GetValue(ViewModelProperty);
+            set => SetValue(ViewModelProperty, value);
+        }
+        object IViewFor.ViewModel
+        {
+            get => ViewModel;
+            set => ViewModel = (MainViewModel)value;
+        }
+
         public MainWindow()
         {
             InitializeComponent();
@@ -52,7 +52,8 @@ namespace NodeCalculatorApp
             // 이를 통해 메모리 누수(memory leak)를 완벽하게 방지할 수 있습니다. 🧹
             this.WhenActivated(d =>
             {
-                // this.OneWayBind(...): 데이터를 한쪽 방향으로 연결(바인딩)하는 ReactiveUI의 메서드입니다. 🔗 데이터는 항상 ViewModel에서 View로 흐릅니다.
+                // this.OneWayBind(...): 데이터를 한쪽 방향으로 연결(바인딩)하는 ReactiveUI의 메서드입니다.
+                // 🔗 데이터는 항상 ViewModel에서 View로 흐릅니다.
                 // .DisposeWith(d): 각 바인딩이 WhenActivated의 생명주기에 맞춰 자동으로 해제되도록 등록하는 부분입니다.
 
                 // ViewModel의 ListViewModel 속성을 (vm => vm.ListViewModel)
@@ -68,19 +69,6 @@ namespace NodeCalculatorApp
                 // MainWindow의 valueLabel이라는 UI 라벨의 Content 속성(화면에 표시될 텍스트)에 연결합니다.
                 this.OneWayBind(ViewModel, vm => vm.ValueLabel, v => v.valueLabel.Content).DisposeWith(d);
             });
-        }
-
-        // IViewFor<MainViewModel> 인터페이스를 구현하고, 의존성 프로퍼티를 일반 C# 속성처럼 편리하게 사용하기 위한 표준적인 코드입니다.
-        // ReactiveUI가 내부적으로 이 속성들을 사용하여 뷰와 뷰모델을 연결합니다.
-        public MainViewModel ViewModel 
-        { 
-            get => (MainViewModel)GetValue(ViewModelProperty); 
-            set => SetValue(ViewModelProperty, value); 
-        }
-        object IViewFor.ViewModel 
-        { 
-            get => ViewModel; 
-            set => ViewModel = (MainViewModel)value; 
         }
     }
 }

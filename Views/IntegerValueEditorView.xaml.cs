@@ -1,19 +1,7 @@
 ﻿using NodeCalculatorApp.ViewModels;
 using ReactiveUI;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace NodeCalculatorApp.Views
 {
@@ -37,15 +25,11 @@ namespace NodeCalculatorApp.Views
         public static readonly DependencyProperty ViewModelProperty = DependencyProperty.Register(nameof(ViewModel),
             typeof(IntegerValueEditorViewModel), typeof(IntegerValueEditorView), new PropertyMetadata(null));
 
-
         // 코드에서 실제로 사용할 ViewModel 프로퍼티입니다. 내부적으로 GetValue와 SetValue를 호출하여 위에서 등록한 의존성 프로퍼티의 값을 읽고 씁니다.
         public IntegerValueEditorViewModel ViewModel
         {
             get => (IntegerValueEditorViewModel)GetValue(ViewModelProperty);
-            set
-            {
-                SetValue(ViewModelProperty, value);
-            }
+            set => SetValue(ViewModelProperty, value);
         }
 
         // IViewFor 인터페이스가 요구하는 ViewModel 프로퍼티를 명시적으로 구현한 부분
@@ -56,6 +40,7 @@ namespace NodeCalculatorApp.Views
             get => ViewModel;
             set => ViewModel = (IntegerValueEditorViewModel)value;
         }
+
 
         #endregion
 
@@ -78,8 +63,9 @@ namespace NodeCalculatorApp.Views
             // 결론: 이 한 줄의 코드로 **ViewModel.Value**와 UI 컨트롤 valueUpDown.Value 사이에 양방향(Two-Way) 바인딩이 설정됩니다.
             // 사용자가 UI에서 숫자를 바꾸면 -> ViewModel.Value가 자동으로 업데이트됩니다.
             // 코드에서 ViewModel.Value를 바꾸면 -> UI의 숫자 표시가 자동으로 업데이트됩니다.
-            this.WhenActivated(d => d(this.Bind(ViewModel, vm => vm.Value, v => v.valueUpDown.Value)));
+            this.WhenActivated(d => d(
+                this.Bind(ViewModel, vm => vm.Value, v => v.valueUpDown.Value)
+            ));
         }
-
     }
 }

@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "D:\\Project\\INDY\\NodeCalculatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|d:\\project\\indy\\nodecalculatorapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|d:\\project\\indy\\nodecalculatorapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|D:\\Project\\INDY\\NodeCalculatorApp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|d:\\project\\indy\\nodecalculatorapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|D:\\Project\\INDY\\NodeCalculatorApp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|D:\\Project\\INDY\\NodeCalculatorApp\\viewmodels\\nodes\\outputnodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:viewmodels\\nodes\\outputnodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|D:\\Project\\INDY\\NodeCalculatorApp\\views\\integervalueeditorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:views\\integervalueeditorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|D:\\Project\\INDY\\NodeCalculatorApp\\viewmodels\\integervalueeditorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:viewmodels\\integervalueeditorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|d:\\project\\indy\\nodecalculatorapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|d:\\project\\indy\\nodecalculatorapp\\viewmodels\\nodes\\outputnodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:viewmodels\\nodes\\outputnodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|D:\\Project\\INDY\\NodeCalculatorApp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|d:\\project\\indy\\nodecalculatorapp\\views\\integervalueeditorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|D:\\Project\\INDY\\NodeCalculatorApp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|D:\\Project\\INDY\\NodeCalculatorApp\\viewmodels\\nodes\\sumnodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:viewmodels\\nodes\\sumnodeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|D:\\Project\\INDY\\NodeCalculatorApp\\views\\integervalueeditorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:views\\integervalueeditorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|d:\\project\\indy\\nodecalculatorapp\\viewmodels\\integervalueeditorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:viewmodels\\integervalueeditorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|d:\\project\\indy\\nodecalculatorapp\\views\\integervalueeditorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D9604F-AF4C-42B7-958F-16C18C862E5F}|NodeCalculatorApp.csproj|solutionrelative:views\\integervalueeditorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,12 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -57,47 +61,89 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T08:22:18.913Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwE4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T08:00:13.891Z",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T04:31:46.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IntegerValueEditorViewModel.cs",
-              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\IntegerValueEditorViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\IntegerValueEditorViewModel.cs",
-              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\IntegerValueEditorViewModel.cs",
-              "RelativeToolTip": "ViewModels\\IntegerValueEditorViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:22:20.712Z",
+              "WhenOpened": "2025-10-15T04:31:44.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:21:22.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAMwEkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:57:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutputNodeViewModel.cs",
+              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\Nodes\\OutputNodeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Nodes\\OutputNodeViewModel.cs",
+              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\Nodes\\OutputNodeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Nodes\\OutputNodeViewModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:55:13.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IntegerValueEditorView.xaml.cs",
+              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\IntegerValueEditorView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\IntegerValueEditorView.xaml.cs",
+              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\IntegerValueEditorView.xaml.cs",
+              "RelativeToolTip": "Views\\IntegerValueEditorView.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:07:34.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
@@ -109,54 +155,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IntegerValueEditorView.xaml.cs",
-              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\IntegerValueEditorView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\IntegerValueEditorView.xaml.cs",
-              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\IntegerValueEditorView.xaml.cs",
-              "RelativeToolTip": "Views\\IntegerValueEditorView.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IntegerValueEditorViewModel.cs",
+              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\IntegerValueEditorViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\IntegerValueEditorViewModel.cs",
+              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\IntegerValueEditorViewModel.cs",
+              "RelativeToolTip": "ViewModels\\IntegerValueEditorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:56:00.996Z",
+              "WhenOpened": "2025-10-15T02:05:25.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IntegerValueEditorView.xaml",
               "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\IntegerValueEditorView.xaml",
               "RelativeDocumentMoniker": "Views\\IntegerValueEditorView.xaml",
               "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\Views\\IntegerValueEditorView.xaml",
               "RelativeToolTip": "Views\\IntegerValueEditorView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-14T05:16:23.936Z",
+              "WhenOpened": "2025-10-15T02:25:51.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
-              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "SumNodeViewModel.cs",
+              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\Nodes\\SumNodeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Nodes\\SumNodeViewModel.cs",
+              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\Nodes\\SumNodeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Nodes\\SumNodeViewModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T06:31:19.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OutputNodeViewModel.cs",
-              "DocumentMoniker": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\Nodes\\OutputNodeViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Nodes\\OutputNodeViewModel.cs",
-              "ToolTip": "D:\\Project\\INDY\\NodeCalculatorApp\\ViewModels\\Nodes\\OutputNodeViewModel.cs",
-              "RelativeToolTip": "ViewModels\\Nodes\\OutputNodeViewModel.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwDEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T06:55:25.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T01:49:22.644Z"
             }
           ]
         }

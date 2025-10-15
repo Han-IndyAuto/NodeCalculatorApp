@@ -170,7 +170,10 @@
     </Compile>
     <Compile Include="ViewModels\IntegerValueEditorViewModel.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="ViewModels\Nodes\ConstantNodeViewModel.cs" />
+    <Compile Include="ViewModels\Nodes\DivisionNodeViewModel.cs" />
     <Compile Include="ViewModels\Nodes\OutputNodeViewModel.cs" />
+    <Compile Include="ViewModels\Nodes\SumNodeViewModel.cs" />
     <Compile Include="Views\IntegerValueEditorView.xaml.cs">
       <DependentUpon>IntegerValueEditorView.xaml</DependentUpon>
     </Compile>

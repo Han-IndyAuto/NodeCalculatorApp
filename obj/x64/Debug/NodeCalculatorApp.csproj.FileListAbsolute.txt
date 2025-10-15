@@ -1,3 +1,10 @@
+D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\NodeCalculatorApp.csproj.AssemblyReference.cache
+D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\Views\IntegerValueEditorView.baml
+D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\Views\IntegerValueEditorView.g.cs
+D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\Views\MainWindow.g.cs
+D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\App.g.cs
+D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\NodeCalculatorApp_MarkupCompile.cache
+D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\NodeCalculatorApp_MarkupCompile.lref
 D:\Project\INDY\NodeCalculatorApp\bin\x64\Debug\NodeCalculatorApp.exe.config
 D:\Project\INDY\NodeCalculatorApp\bin\x64\Debug\NodeCalculatorApp.exe
 D:\Project\INDY\NodeCalculatorApp\bin\x64\Debug\NodeCalculatorApp.pdb
@@ -55,13 +62,6 @@ D:\Project\INDY\NodeCalculatorApp\bin\x64\Debug\ro\Xceed.Wpf.AvalonDock.resource
 D:\Project\INDY\NodeCalculatorApp\bin\x64\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
 D:\Project\INDY\NodeCalculatorApp\bin\x64\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
 D:\Project\INDY\NodeCalculatorApp\bin\x64\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
-D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\NodeCalculatorApp.csproj.AssemblyReference.cache
-D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\Views\IntegerValueEditorView.g.cs
-D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\Views\MainWindow.g.cs
-D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\App.g.cs
-D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\NodeCalculatorApp_MarkupCompile.cache
-D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\NodeCalculatorApp_MarkupCompile.lref
-D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\Views\IntegerValueEditorView.baml
 D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\Views\MainWindow.baml
 D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\NodeCalculatorApp.g.resources
 D:\Project\INDY\NodeCalculatorApp\obj\x64\Debug\NodeCalculatorApp.Properties.Resources.resources
